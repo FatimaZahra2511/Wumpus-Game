@@ -50,22 +50,6 @@ This project implements the **Wumpus Game**, an AI-driven game that simulates an
    ```
 3. The agent will start navigating the cave based on the predefined rule-based logic.
 
-## Project Structure
-```
-Wumpus-Game/
-├── JessWumpus/         # Jess rule-based AI implementation
-│   ├── cave0.jess      # Initial cave state
-│   ├── cave1.jess      # Updated environment
-│   ├── cave2.jess      # Further game progress
-│   ├── cave3.jess      # Advanced game stage
-│   ├── ww.jess         # Main execution file
-├── jess               # Jess executable
-├── jess.bat           # Jess batch script
-├── LICENSE            # License file
-├── Project 2 Report.pdf # Project report
-├── README.md          # Documentation
-└── .gitignore         # Ignore unnecessary files
-```
 
 ## License
 This project is licensed under the **MIT License**. See the `LICENSE` file for details.
