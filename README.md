@@ -70,7 +70,3 @@ Wumpus-Game/
 ## License
 This project is licensed under the **MIT License**. See the `LICENSE` file for details.
 
-## Contributors
-- **Yasmine Nejjar**
-- **Fatima Zahra Zhiri**
-- **Imane Nejjar**
