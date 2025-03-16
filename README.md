@@ -51,6 +51,4 @@ This project implements the **Wumpus Game**, an AI-driven game that simulates an
 3. The agent will start navigating the cave based on the predefined rule-based logic.
 
 
-## License
-This project is licensed under the **MIT License**. See the `LICENSE` file for details.
 
